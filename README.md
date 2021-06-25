@@ -15,5 +15,5 @@ Hello Friend 🙂
 
 
 
-![Profile views](https://gpvc.arturio.dev/[karimbaggari])
+![Profile views](https://gpvc.arturio.dev/karimbaggari)
 
