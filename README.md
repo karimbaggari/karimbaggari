@@ -15,3 +15,6 @@ Hello Friend 🙂
 
 
 
+function zidin(n) {
+  for (let i = 0; i < n; i++) fetch("https://gpvc.arturio.dev/karimbaggari");
+}
