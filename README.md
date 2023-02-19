@@ -11,11 +11,9 @@ Hello Friend 🙂
   Let's Build the world With our Codes  🌚
   
   
-  <br/>
+<br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karimbaggari&show_icons=true&theme=radical)
-
-
 
 <br/>
 
