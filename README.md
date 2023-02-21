@@ -13,7 +13,7 @@ Hello Friend 🙂
   
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karimbaggari&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karimbaggari&theme=dark&show_icons=true)
 
 <br/>
 
