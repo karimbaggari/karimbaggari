@@ -2,7 +2,7 @@ Hello Friend 🙂
 
 
 
-  Feel Free to Use anything look Useful in this github account ❤️
+  Feel Free to Use anything that looks Useful in this github account ❤️
 
 
 ```js
