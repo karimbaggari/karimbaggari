@@ -29,11 +29,8 @@ public class HelloWorld {
 ![full-stack-development](https://user-images.githubusercontent.com/77829205/124051039-9ab94900-da13-11eb-9654-1d79bf3cfe37.gif)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karimbaggari&show_icons=true&theme=radical)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karimbaggari&repo=BackGamingSchool)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karimbaggari&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karimbaggari&layout=compact)
 
-
-
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=karimbaggari)](https://github.com/karimbaggari/github-readme-stats)
   
