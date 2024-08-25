@@ -28,6 +28,7 @@ public class HelloWorld {
 
 ![full-stack-development](https://user-images.githubusercontent.com/77829205/124051039-9ab94900-da13-11eb-9654-1d79bf3cfe37.gif)
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?karimbaggari" frameborder="0"></iframe>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karimbaggari&layout=compact&cache_seconds=1800)
+
 
 
