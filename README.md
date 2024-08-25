@@ -28,8 +28,6 @@ public class HelloWorld {
 
 ![full-stack-development](https://user-images.githubusercontent.com/77829205/124051039-9ab94900-da13-11eb-9654-1d79bf3cfe37.gif)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karimbaggari&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karimbaggari)](https://github.com/anuraghazra/github-readme-stats)
 
