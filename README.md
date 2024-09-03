@@ -28,6 +28,6 @@ public class HelloWorld {
 
 ![full-stack-development](https://user-images.githubusercontent.com/77829205/124051039-9ab94900-da13-11eb-9654-1d79bf3cfe37.gif)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karimbaggari&hide=javascript,css,scss,html&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karimbaggari&hide=css,scss,html&theme=tokyonight)
 
 
